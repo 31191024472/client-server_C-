@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EzF0frYkcEt5XgDJZIXt0zHKvsFqeBjR1pcg5QgBaY7/vs4XtWmHSQm+Cdv70U+jWvJzgyUxJZQM0+vnkKHkdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matebook D15\\source\\repos\\Call API Conssole\\Call API Conssole\\Call API Conssole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matebook D15\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

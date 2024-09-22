@@ -1,0 +1,17 @@
+C:\Users\Matebook D15\source\repos\Call API Conssole\Call API Conssole\bin\Debug\net8.0\Call API Conssole.exe
+C:\Users\Matebook D15\source\repos\Call API Conssole\Call API Conssole\bin\Debug\net8.0\Call API Conssole.deps.json
+C:\Users\Matebook D15\source\repos\Call API Conssole\Call API Conssole\bin\Debug\net8.0\Call API Conssole.runtimeconfig.json
+C:\Users\Matebook D15\source\repos\Call API Conssole\Call API Conssole\bin\Debug\net8.0\Call API Conssole.dll
+C:\Users\Matebook D15\source\repos\Call API Conssole\Call API Conssole\bin\Debug\net8.0\Call API Conssole.pdb
+C:\Users\Matebook D15\source\repos\Call API Conssole\Call API Conssole\obj\Debug\net8.0\Call API Conssole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matebook D15\source\repos\Call API Conssole\Call API Conssole\obj\Debug\net8.0\Call API Conssole.AssemblyInfoInputs.cache
+C:\Users\Matebook D15\source\repos\Call API Conssole\Call API Conssole\obj\Debug\net8.0\Call API Conssole.AssemblyInfo.cs
+C:\Users\Matebook D15\source\repos\Call API Conssole\Call API Conssole\obj\Debug\net8.0\Call API Conssole.csproj.CoreCompileInputs.cache
+C:\Users\Matebook D15\source\repos\Call API Conssole\Call API Conssole\obj\Debug\net8.0\Call API Conssole.dll
+C:\Users\Matebook D15\source\repos\Call API Conssole\Call API Conssole\obj\Debug\net8.0\refint\Call API Conssole.dll
+C:\Users\Matebook D15\source\repos\Call API Conssole\Call API Conssole\obj\Debug\net8.0\Call API Conssole.pdb
+C:\Users\Matebook D15\source\repos\Call API Conssole\Call API Conssole\obj\Debug\net8.0\Call API Conssole.genruntimeconfig.cache
+C:\Users\Matebook D15\source\repos\Call API Conssole\Call API Conssole\obj\Debug\net8.0\ref\Call API Conssole.dll
+C:\Users\Matebook D15\source\repos\Call API Conssole\Call API Conssole\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Matebook D15\source\repos\Call API Conssole\Call API Conssole\obj\Debug\net8.0\Call API Conssole.csproj.AssemblyReference.cache
+C:\Users\Matebook D15\source\repos\Call API Conssole\Call API Conssole\obj\Debug\net8.0\Call API.4CA05C51.Up2Date

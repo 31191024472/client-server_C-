@@ -1,0 +1,413 @@
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\appsettings.json
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\ProductAgent.staticwebassets.runtime.json
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\ProductAgent.exe
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\ProductAgent.deps.json
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\ProductAgent.runtimeconfig.json
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\ProductAgent.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\ProductAgent.pdb
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\obj\Debug\net8.0\staticwebassets\msbuild.ProductAgent.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductAgent.props
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductAgent.props
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductAgent.props
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\obj\Debug\net8.0\scopedcss\bundle\ProductAgent.styles.css
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductA.C4855A41.Up2Date
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\obj\Debug\net8.0\refint\ProductAgent.dll
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.pdb
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\ProductAgent\ProductAgent\obj\Debug\net8.0\ref\ProductAgent.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\appsettings.json
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ProductAgent.staticwebassets.runtime.json
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ProductAgent.exe
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ProductAgent.deps.json
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ProductAgent.runtimeconfig.json
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ProductAgent.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ProductAgent.pdb
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.csproj.AssemblyReference.cache
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.AssemblyInfoInputs.cache
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.AssemblyInfo.cs
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.csproj.CoreCompileInputs.cache
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\staticwebassets\msbuild.ProductAgent.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductAgent.props
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductAgent.props
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductAgent.props
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\scopedcss\bundle\ProductAgent.styles.css
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductA.C4855A41.Up2Date
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\refint\ProductAgent.dll
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.pdb
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.genruntimeconfig.cache
+C:\Users\Matebook D15\Downloads\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\ref\ProductAgent.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.csproj.AssemblyReference.cache
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.AssemblyInfoInputs.cache
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.AssemblyInfo.cs
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.csproj.CoreCompileInputs.cache
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.MvcApplicationPartsAssemblyInfo.cs
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.MvcApplicationPartsAssemblyInfo.cache
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\refint\ProductAgent.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.pdb
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\appsettings.Development.json
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\appsettings.json
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ProductAgent.staticwebassets.runtime.json
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ProductAgent.exe
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ProductAgent.deps.json
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ProductAgent.runtimeconfig.json
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ProductAgent.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ProductAgent.pdb
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Azure.Core.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Azure.Identity.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Humanizer.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.CodeDom.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Text.Json.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\staticwebassets.build.json
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\staticwebassets.development.json
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\staticwebassets\msbuild.ProductAgent.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductAgent.props
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductAgent.props
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductAgent.props
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\scopedcss\bundle\ProductAgent.styles.css
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductA.C4855A41.Up2Date
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\ProductAgent.genruntimeconfig.cache
+D:\Workspace\ProductAgent\ProductAgent\ProductAgent\obj\Debug\net8.0\ref\ProductAgent.dll
